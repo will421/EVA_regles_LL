@@ -480,7 +480,7 @@ Les joueurs ne sont pas autorisés à mettre le jeu en pause après le lancement
 
 Dans le cas où un joueur ne serait pas apte, pour raisons de santé, à reprendre la partie en cours alors son équipe aura le choix entre continuer le match en jouant à trois contre quatre ou en faisant remplacer le joueur inapte par le remplaçant de l’équipe ou en déclarant forfait.
 
-Ce forfait sera considéré comme un Forfait Volontaire et est donc soumis aux mentions de la section 6.11
+Ce forfait sera considéré comme un Forfait Volontaire et est donc soumis aux mentions de la section 6.12
 
 Dans tous les cas, chaque équipe est limitée à demander un maximum de 3 pauses par best-of.
 
