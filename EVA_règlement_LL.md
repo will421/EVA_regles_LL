@@ -1329,7 +1329,7 @@ Pour rappel, en citation du Règlement Ligue Locale :
 - *\[LIEN PARTICULIERS\] Facemask avant PICO gris “Coussin facial Original VR Pico 4” (applicable à partir du 27 septembre 2026\) : https://fr.aliexpress.com/item/1005004862615572.html*   
 - *\[LIEN PARTICULIERS\] Facemask avant PICO noir “AMVR VR Facial Interface Bracket Face Cover for Pico 4/PICO 4 Pro” (applicable à partir du 27 septembre 2026\) : https://amzn.eu/d/0fH0hNO8 “*
 
-Les écouteurs intra-auriculaires seront autorisés lors des Tournois Régionaux du Split 2\. Plus d’informations sur les références autorisées à venir durant le mois d’août 2026\. 
+Les écouteurs intra-auriculaires seront autorisés lors des Tournois Régionaux du Split 2, selon les références indiquées dans le Règlement des Ligues Locales. 
 
 Lors des Coupes Régionales, le manquement à cette mention sera sanctionné d’un kill admin au début de chaque carte jouée avec un bonnet prêté par la salle.
 
